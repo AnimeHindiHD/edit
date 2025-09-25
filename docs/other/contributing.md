@@ -1,8 +1,4 @@
----
-title: Contributing
-description: How to contribute to the project.
-next: false
-prev: false
----
+
+<a href="https://animehindihd.com/">AnimeHindiHD</a>
 
 <!-- @include: ../../.github/CONTRIBUTING.md -->
